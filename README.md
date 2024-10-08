@@ -1,5 +1,5 @@
-# NodeMailer_Gmail_Backend
-In this project, we are going to add nodemailer to send mails.
+# Email-Sender using NodeMailer
+In this project, I've used nodemailer to send mails.
 
 
 ## Appendix
@@ -11,4 +11,3 @@ module.exports = {
     PASSWORD : '<GMAIL_GENERATED_PASSWORD>'
 }
 ```
-For More Information Join [Daily Tuition](https://www.youtube.com/@dailytuition).
