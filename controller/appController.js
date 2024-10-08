@@ -64,7 +64,8 @@ const getBill = (req, res) => {
   let response = {
     body: {
       name: "Amit Yadav",
-      intro: {
+      intro: "Your bill has arrived!",
+      table: {
         data: [
           {
             item: "Nodemailer Stack Book",
